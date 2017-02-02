@@ -1,11 +1,1 @@
-Otomatic switch <BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace>O<BackSpace><BackSpace>Pindah CTRLaCTRLaOtomas<BackSpace>tis pindah form <BackSpace><BackSpace><BackSpace><BackSpace><BackSpace>input pin		100 SAAT <BackSpace><BackSpace><BackSpace><BackSpace><BackSpace>saat selesaigitCTRLaccCTRLNv
-<BackSpace><BackSpace>
-KeylogerSimple keyloget<BackSpace>r CTRLSimple keyloger  
-buildedCTRLtbuildbed 
-simple <BackSpace><BackSpace><BackSpace>builded by c
-CTRLcCTRLCTRLtv
 
-<BackSpace><BackSpace> in C
-# How to Use
-Just build u <BackSpace><BackSpace><BackSpace> you can build in visual studio or<BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace><BackSpace> any IDECTRLcccCTRL
-Fist CommitCTRLv
